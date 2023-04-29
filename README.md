@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/harnoor29581982" target="blank"><img src="https://img.shields.io/twitter/follow/harnoor29581982?logo=twitter&style=for-the-badge" alt="harnoor29581982" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structure And Algorithms**
+- 🌱 I’m currently learning **Reactjs , Data Structure And Algorithms**
 
-- 💬 Ask me about **Java , Spring Boot,Data Structures , Hibernate**
+- 💬 Ask me about **Java , Javascript, Spring Boot,Data Structures , Hibernate**
 
 - 📫 How to reach me **singhharnoor116@gmail.com**
 
