@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **freelancing projects**
 
-- 🤝 I’m looking for help with **data structures and algorithms, Cloud-native development and**
+- 🤝 I’m looking for help with **data structures and algorithms, Devops**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://harnoor-portfolio.vercel.app/)
 
