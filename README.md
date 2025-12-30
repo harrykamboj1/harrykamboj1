@@ -56,20 +56,36 @@ I specialize in **building scalable apps**, integrating **AI systems**, and solv
 
 ### 📈 GitHub Analytics
 
+<!-- ==================== GitHub Profile Trophy ==================== -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harrykamboj1&theme=tokyonight&row=1&column=6" alt="trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=harrykamboj1&theme=tokyonight&row=1&column=6&no-frame=true"
+    alt="GitHub Trophies"
+  />
 </p>
 
+<!-- ==================== GitHub Stats ==================== -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harrykamboj1&show_icons=true&theme=tokyonight" alt="stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=harrykamboj1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
 </p>
 
+<!-- ==================== GitHub Streak ==================== -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harrykamboj1&theme=tokyonight" alt="streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=harrykamboj1&theme=tokyonight"
+    alt="GitHub Streak"
+  />
 </p>
 
+<!-- ==================== Top Languages ==================== -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrykamboj1&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrykamboj1&layout=compact&theme=tokyonight&cache_seconds=1800"
+    alt="Top Languages"
+  />
 </p>
 
 ---
