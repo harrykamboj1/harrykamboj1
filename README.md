@@ -56,13 +56,16 @@ I specialize in **building scalable apps**, integrating **AI systems**, and solv
 
 ### 📈 GitHub Analytics
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=harrykamboj1&theme=tokyonight&row=1&column=6&no-frame=true)
+<div align="center">
+  
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harrykamboj1&theme=tokyonight)](https://github.com/harrykamboj1)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harrykamboj1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harrykamboj1&theme=tokyonight" width="400"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harrykamboj1&theme=tokyonight" width="400"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=harrykamboj1&theme=tokyonight)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=harrykamboj1&theme=tokyo-night&hide_border=true)](https://github.com/harrykamboj1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harrykamboj1&layout=compact&theme=tokyonight)
+</div>
 
 ---
 
