@@ -33,7 +33,7 @@ I specialize in **building scalable apps**, integrating **AI systems**, and solv
 - 👯 Open to: **Freelancing & Collaborative Projects**  
 - 🧠 Exploring: **LLM Applications**, **RAG Pipelines**, and **AI Workflows**  
 - 📫 Reach me at: **singhharnoor116@gmail.com**  
-- 📝 [View My Resume](https://drive.google.com/file/d/1CAGzp_qGVo5SBz3l5Q9Uho3gKu9SQrRn/view)  
+- 📝 [View My Resume](https://drive.google.com/file/d/1JzGGYofp0_NchXzuccGhbe773m7QwD_D/view?usp=drive_link)  
 - 🌐 [Check My Portfolio](https://harnoor-portfolio.vercel.app/)
 
 ---
