@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">👋 Hi, I'm Harnoor Singh</h1>
-<h3 align="center">🚀 Full-Stack & AI Developer</h3>
+<h3 align="center">🚀 Software Engineer</h3>
 
 <p align="center">
   <a href="https://twitter.com/harnoor29581982" target="_blank">
@@ -25,11 +25,11 @@
 
 ### 🧠 About Me
 
-I'm a **23-year-old Full-Stack Developer** from India 🇮🇳, currently working as a **Software Developer at a Fintech startup**.  
+I'm a **25-year-old Software Engineer** from India 🇮🇳, currently working as a **Software Engineer at a Fintech startup**.  
 I specialize in **building scalable apps**, integrating **AI systems**, and solving complex problems with code.  
 
 - 🔭 Currently working on: **LangGraph**, **LangChain**, and **Next.js**  
-- 🌱 Learning: **Next.js **, **Cloud-Native Development**, **DSA**, and **DevOps**  
+- 🌱 Learning: **Next.js**, **Cloud-Native Development**, **DSA**, and **DevOps**  
 - 👯 Open to: **Freelancing & Collaborative Projects**  
 - 🧠 Exploring: **LLM Applications**, **RAG Pipelines**, and **AI Workflows**  
 - 📫 Reach me at: **singhharnoor116@gmail.com**  
